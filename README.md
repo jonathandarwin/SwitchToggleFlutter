@@ -1,16 +1,9 @@
-# switch_toggle
+# Swith Toggle On/Off (Flutter)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Here the code's explanation line by line (overall)
+    
+    import 'package:flutter/material.dart';
+  Explanation : Import some package that will be used in this file
+  
+    void main() => runApp(Main());
+  Explanation : Assume as the function that will be executed first when the apps running
