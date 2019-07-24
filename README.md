@@ -1,4 +1,4 @@
-# Swith Toggle On/Off (Flutter)
+# Swith Toggle On/Off Flutter - 20 July 2019
 
 <img src="https://user-images.githubusercontent.com/48744669/61555425-98a98a00-aa89-11e9-82a5-dc94dddc98b3.png" width="30%" />
 <img src="https://user-images.githubusercontent.com/48744669/61555362-6bf57280-aa89-11e9-8247-f05d3ec30bb3.png" width="30%" />
