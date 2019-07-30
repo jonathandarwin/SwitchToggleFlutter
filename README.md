@@ -44,7 +44,7 @@
 <br>
 
     bool status = true;
-  Explanation : This attribute is a flagging for us to decide whether the switch is on / off. if the "status" attribute is "true" then the switch is on, <i>visa versa</i>
+  Explanation : This attribute is a flagging for us to decide whether the switch is on / off. if the "status" attribute is "true" then the switch is on, <i>vice versa</i>
 <br>
     
     @override
